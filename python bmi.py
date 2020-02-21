@@ -1,4 +1,5 @@
 # This programme calculates BMI
+# test for git
 
 weight = float(input ("Please enter you weight in KG: " ))
 height = float (input ("Please enter your height in CM: "))
