@@ -6,10 +6,15 @@
 # multiply it by three and add one. Have the program 
 # end if the current value is one.
 
-
-i = (input("Please input any positive integer: "))
-if "" == "":
-    print (i)
-
-
+#STEP 1 
+i = int(input("Please enter a positive integer: "))
+# while I do not reach 1 (not equal)
+while i != 1:
+    print (i, end= ", ")
+    #to determine if  integer is even or odd number (using modular)
+    if (i % 2) ==0:
+        i = i // 2
+    else:
+        i = i * 3 + 1
+print (i)
 
