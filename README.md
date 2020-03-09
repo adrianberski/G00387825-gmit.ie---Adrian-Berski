@@ -1,1 +1,2 @@
-# G00387825-gmit.ie
+# Adrian -gmit.ie
+A am learning coding 1st time. 
