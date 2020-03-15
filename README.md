@@ -1,2 +1,2 @@
 # Adrian -gmit.ie
-A am learning coding 1st time. 
+I am a new learner of coding - student. 
