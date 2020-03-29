@@ -24,7 +24,7 @@ else:
 
 #mature version 
 #i = input("Please enter which day is today (from Monday to Sunday)?")
-#weekdays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+#weekdays = ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 #if weekdays.include(i):
 #	print("Yes, unfortunately today is a weekday")
 #else:

@@ -8,7 +8,7 @@
 
 #STEP 1 
 i = int(input("Please enter a positive integer: "))
-# while I do not reach 1 (not equal)
+# while I doesn`t not reach 1 (not equal)
 while i != 1:
     print (i, end= ", ")
     #to determine if  integer is even or odd number (using modular)
