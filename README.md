@@ -2,9 +2,9 @@
 
 **Version 1.0.0**
 
-I have been coding since January 2020.  These are my 1st projects and efforts. 
+*I have been coding since January 2020.  These are my 1st projects and efforts.*
 
-This README documents whatever steps are necessary to get the application up and running.
+__This README documents whatever steps are necessary to get the application up and running.__
 
 # Python version
 Python 3.8.2 which can be downloaded from here: https://www.python.org/downloads/
