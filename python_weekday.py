@@ -22,6 +22,9 @@ elif i ==("Friday"):
 else:
     print("It is the weekend, yay!")
 
+# it can be function but I think that purpouse for this excercise was to use conditions and
+#to control flow 
+
 #mature version 
 #i = input("Please enter which day is today (from Monday to Sunday)?")
 #weekdays = ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
