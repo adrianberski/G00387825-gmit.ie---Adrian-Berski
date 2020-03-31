@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-# Create functions 
+# Create functions and using data
 x = [0, 1, 2, 3, 4]
 f = [0, 1, 2, 3, 4]
 g = [0, 1, 4, 9, 16]
@@ -37,12 +37,12 @@ h = [0, 1, 8, 27, 64]
 
 
 
-
+#create plots with above data
 plt.plot (x, f)
 plt.plot (x, g)
 plt.plot (x, h)
 
-
+#swow plots for 3 functions 
 plt.show()
 
 
