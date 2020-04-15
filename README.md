@@ -1,11 +1,11 @@
 # Adrian (junior programmer) -gmit.ie
 
+__This README documents necessary steps to get the application up and running.__
+
 **Version 1.0.0**
 
 # Description
 *I have been coding since January 2020.  These are my 1st projects and efforts.*
-
-__This README documents whatever steps are necessary to get the application up and running.__
 
 # Python version
 Python 3.8.2 which can be downloaded from here: https://www.python.org/downloads/
