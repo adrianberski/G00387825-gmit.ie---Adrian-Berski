@@ -20,8 +20,12 @@ Requirements for Phyton do apply (.py).
 
 # Configuration – Installation 
 
-Install appropriate Python version and code editor. For matplotlib and other extensions please use: https://matplotlib.org/
+Install appropriate Python version and code editor. For matplotlib and other extensions and software library please use: https://matplotlib.org/
 
+Required libraries:
+* matplotlib.pyplot;
+* numpy;
+* pandas.
 
 
 
@@ -29,7 +33,8 @@ Install appropriate Python version and code editor. For matplotlib and other ext
 
 Not applicable in this stage. 
 
-
+*Installation instruction:*
+* for ex. 'python -m pip install -U seaborn' in your working environment. 
 
 
 # Database initialization

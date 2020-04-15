@@ -16,3 +16,4 @@ print(text_data)
 i = text_data.count("e")
 #finally,I want to know how many times 'e' appears in this text, wIe can use the function count:
 print(i)
+

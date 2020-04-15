@@ -1,7 +1,8 @@
 #A program that displays a plot of the functions
 #  f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
 
-#Before I start working with task, I need to import it into my Python environment.
+#Before I start working with task, I need to import it (particular libraries)
+#  into my Python environment.
 import matplotlib.pyplot as plt
 import numpy as np
 
