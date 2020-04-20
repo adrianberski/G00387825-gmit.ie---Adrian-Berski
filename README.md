@@ -102,9 +102,14 @@ The last qualitative attribute defines the species of the described iris (3 spec
  One of the problems that can be solved with this learning set is to determine the species for the new iris flower depending on the size of its petals. This is an example of a classification task.
 
 The table below presents detailed description of the set:
-Data Set Characteristics:  	Multivariate	Number of Instances:	150	Area:	Life
-Attribute Characteristics:	Real	Number of Attributes:	4	Date Donated	1988-07-01
-Associated Tasks:	Classification	Missing Values	No	Number of Web Hits:	3248084
+Data Set Characteristics:  	Multivariate	
+Number of Instances:	150	
+Area:	Life
+Attribute Characteristics:	Real	
+Number of Attributes:	4	
+Date Donated	1988-07-01
+Associated Tasks:	Classification	Missing Values	No	
+Number of Web Hits:	3248084
 
 The python code can be found in repository: analysis.py . It:
 •	outputs a summary of each variable to a single text file,
