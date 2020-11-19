@@ -81,8 +81,6 @@ I am open to contributions.
 
 
 
-
-
 # About the project
 
 The analysis of the Numpy-Random Package for Programming for Data Analysis.
