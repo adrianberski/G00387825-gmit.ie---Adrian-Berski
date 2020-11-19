@@ -84,10 +84,17 @@ I am open to contributions.
 # About the project
 
 The analysis of the Numpy-Random Package for Programming for Data Analysis.
+
+
 1. Introductory remarks.
+
 2.1. Explanation of the use of the Simple random data functions.
+
 2.2. Explanation of the use of the Permutations functions.
+
 3. The use and purpose of five Distributions functions.
+
 4. The use of seeds in generating pseudorandom numbers.
+
 5. Legacy of the Random Generation Mersenne Twister (MT19937) to Permuted Congruential Generator (64-bit, PCG64).
 List of sources. 
