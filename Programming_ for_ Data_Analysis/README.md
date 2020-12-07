@@ -1,4 +1,4 @@
-# Adrian (junior programmer) -gmit.ie
+# Adrian -gmit.ie
 
 __This README documents necessary steps to get the application up and running.__
 
