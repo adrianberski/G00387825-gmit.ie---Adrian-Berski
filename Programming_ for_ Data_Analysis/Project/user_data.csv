@@ -1,204 +1,202 @@
 city,education,age
-"Brooklyn, NY",college,31
-"Brooklyn, NY",graduate degree,31
-"Brooklyn, NY",graduate degree,32
-"Brooklyn, NY",college,37
-"Brooklyn, NY",college,21
-"Austin, TX",college,25
-"Oakland, CA",graduate degree,29
-"Pittsburgh, PA",college,29
-"Pittsburgh, PA",college,27
-"Pittsburgh, PA",graduate degree,28
-"Ames, IA",college,31
-"Albany, NY",graduate degree,31
-"Lancaster, PA",college,31
-"Reno, NV",high school,31
-"Houston, TX",high school,31
-"Tulsa, OK",high school,31
-Kansas City,graduate degree,21
-"Lincoln, NB",college,22
-"Fort Wayne, ID",graduate degree,23
-"Memphis, TN",high school,24
-"Birmingham, AL",college,25
-"Wichita, KS",college,26
-"Tampa, FL",high school,27
-"Bakersfield, CA",high school,28
-"Charlotte, NC",college,29
-"Columbus, OH",graduate degree,30
-"Philadelphia, PA",graduate degree,31
-"Philadelphia, PA",graduate degree,32
-"Philadelphia, PA",graduate degree,33
-"Plano, TX",graduate degree,34
-"Boston, MA",college,35
-"Fresno, CA",college,36
-"Scottsdale, AZ",graduate degree,37
-"Milwaukee, WI",graduate degree,21
-"Huntington, NY",college,22
-"Boston, MA",college,23
-"Cleveland, OH",graduate degree,24
-"Santa Ana, CA",college,25
-"North Hempstead, NY",graduate degree,26
-"Toledo, OH",high school,27
-"Laredo, TX",college,28
-"Denver, CO",college,29
-"Denver, CO",college,30
-"Denver, CO",graduate degree,31
-"Denver, CO",college,32
-"Milwaukee, WI",college,33
-"Philadelphia, PA",graduate degree,34
-"Philadelphia, PA",graduate degree,35
-"Philadelphia, PA",graduate degree,36
-"Boston, MA",graduate degree,37
-"Milwaukee, WI",college,21
-"Baton Rouge, LA",graduate degree,22
-"Newark, NJ",college,23
-"Miami, FL",graduate degree,24
-"Honolulu, HI",college,25
-"Jersey City, NJ",college,26
-"Omaha, Nebraska",college,27
-Albuquerque,graduate degree,28
-"Detroit, MI",college,29
-"Baltimore, MD",college,30
-"Baltimore, MD",graduate degree,31
-"Milwaukee, WI",college,32
-"New York, NY",college,33
-"New York, NY",graduate degree,34
-"New York, NY",college,35
-"New York, NY",graduate degree,36
-"Los Angeles, CA",graduate degree,37
-"Baltimore, MD",college,21
-"Baltimore, MD",graduate degree,22
-"Los Angeles, CA",graduate degree,23
-"Chicago, IL",graduate degree,24
-"Detroit, MI",college,25
-"St. Louis, MO",graduate degree,26
-"Philadelphia, PA",college,27
-"Minneapolis, MN",college,28
-"Boston, MA",graduate degree,29
-"Minneapolis, MN",college,30
-"St. Petersburg, FL",college,31
-"New York, NY",high school,32
-"New York, NY",graduate degree,33
-"New York, NY",graduate degree,34
-"New York, NY",graduate degree,35
-"Los Angeles, CA",graduate degree,36
-"Chicago, IL",college,37
-"Boston, MA",college,21
-"Boston, MA",college,22
-"Boston, MA",graduate degree,23
-"Boston, MA",college,24
-"Boston, MA",graduate degree,25
-"Boston, MA",graduate degree,26
-"Boston, MA",college,27
-"Boston, MA",graduate degree,28
-"Boston, MA",college,29
-"Chicago, IL",graduate degree,30
-"Chicago, IL",graduate degree,31
-"Baltimore, MD",college,32
-"Baltimore, MD",college,33
-"Los Angeles, CA",college,34
-"Los Angeles, CA",college,35
-"Los Angeles, CA",college,36
-"Los Angeles, CA",graduate degree,37
-"Los Angeles, CA",graduate degree,21
-"Reno, NV",college,22
-"Rochester, NY",graduate degree,23
-"Omaha, Nebraska",college,24
-"Rochester, NY",graduate degree,25
-"Charlotte, NC",graduate degree,26
-"Philadelphia, PA",graduate degree,27
-"Durham, NC",graduate degree,28
-"Scottsdale, AZ",graduate degree,29
-"Lincoln, NB",graduate degree,30
-"Stockton, CA",graduate degree,31
-"Baltimore, MD",graduate degree,32
-"Baltimore, MD",graduate degree,33
-"Chicago, IL",graduate degree,34
-"Chicago, IL",graduate degree,35
-"Chicago, IL",graduate degree,36
-"Chicago, IL",graduate degree,37
-"Houston, TX",high school,21
-"San Jose, CA",graduate degree,22
-"Milwaukee, WI",college,23
-"St. Paul, MN",college,24
-"Los Angeles, CA",graduate degree,25
-"Houston, TX",graduate degree,26
-"Las Vegas, NV",college,27
-"Baton Rouge, LA",college,28
-"Long Beach, CA",graduate degree,29
-"Philadelphia, PA",graduate degree,30
-"Boston, MA",college,31
-"Atlanta, GA",graduate degree,32
-"Atlanta, GA",graduate degree,33
-"Atlanta, GA",graduate degree,34
-"Oklahoma City, OK",college,35
-"Pittsburgh, PA",graduate degree,36
-"Baltimore, MD",graduate degree,37
-"Philadelphia, PA",graduate degree,21
-"Philadelphia, PA",graduate degree,22
-"Philadelphia, PA",graduate degree,23
-"Philadelphia, PA",college,24
-"Lexington-Fayette, KY",college,25
-"Greensboro, NC",college,26
-"Miami, FL",college,27
-"San Jose, CA",college,28
-"Kansas City, MO",college,29
-"Minneapolis, MN",college,30
-"Mesa, AZ",graduate degree,31
-"Newark, NJ",college,32
-"Nashville, TN",college,33
-"Las Vegas, NV",graduate degree,34
-"Santa Ana, CA",high school,32
-"Chula Vista, CA",high school,29
-"Janesville, WI",college,28
-"Fort Lee, NJ",high school,31
-"Rocklin, CA",college,28
-"Wilson, NC
-",college,31
-"Dallas, GA
-",graduate degree,32
-"Birmingham, AL",graduate degree,34
-"Washington, DC",college,35
-"Washington, DC",graduate degree,21
-"Washington, DC",college,36
-"St. Louis, MO",graduate degree,34
-"Cleveland, OH",graduate degree,37
-"Phoenix, AZ",college,38
-"Phoenix, AZ",graduate degree,26
-"Modesto, CA",high school,26
-"Portland, OR",college,38
-"Portland, OR",graduate degree,38
-"Seattle, WA",graduate degree,35
-"Seattle, WA",college,22
-"Seattle, WA",graduate degree,24
-"Washington, DC",graduate degree,31
-"Jacksonville, FL",graduate degree,23
-"St. Paul, MN",college,27
-"Anchorage, AK",college,21
-"St. Paul, MN",college,32
-"Albuquerque, NM",college,32
-"San Francisco, CA",college,36
-"San Francisco, CA",graduate degree,37
-"San Francisco, CA",college,22
-"San Francisco, CA",college,31
-"San Francisco, CA",graduate degree,34
-"San Francisco, CA",graduate degree,24
-"San Francisco, CA",graduate degree,33
-"San Francisco, CA",college,34
-"Sacramento, CA",graduate degree,27
-"Iowa City, IA",graduate degree,38
-"Orlando, FL",college,24
-"Scottsdale, AZ",college,33
-"Detroit, MI",college,25
-"Arlington, TX",high school,21
-"Jersey City, NJ",college,37
-"Rochester, NY",college,34
-"Nashville, TN",graduate degree,22
-"Austin, TX",graduate degree,22
-"Madison, WI",graduate degree,28
-"Buffalo, NY",graduate degree,24
-"Durham, NC",graduate degree,34
-"Honolulu, HI",high school,35
-"Corpus Christi, TX",high school,38
-"Memphis, TN",high school,44
-"Birmingham, AL",college,45
+Toronto,college,31
+Montréal,graduate degree,31
+Vancouver,graduate degree,32
+Calgary,college,37
+Edmonton,college,21
+Ottawa,college,25
+Mississauga,graduate degree,29
+Winnipeg,college,29
+Quebec City,college,27
+Hamilton,graduate degree,28
+Brampton,college,31
+Surrey,graduate degree,31
+Kitchener,college,31
+Laval,high school,31
+Halifax,high school,31
+London,high school,31
+Victoria,graduate degree,21
+Markham,college,22
+St. Catharines,graduate degree,23
+Niagara Falls,high school,24
+Vaughan,college,25
+Gatineau,college,26
+Windsor,high school,27
+Saskatoon,high school,28
+Longueuil,college,29
+Burnaby,graduate degree,30
+Regina,graduate degree,31
+Richmond,graduate degree,32
+Richmond Hill,graduate degree,33
+Oakville,graduate degree,34
+Burlington,college,35
+Barrie,college,36
+Oshawa,graduate degree,37
+Sherbrooke,graduate degree,21
+Saguenay,college,22
+Lévis,college,23
+Kelowna,graduate degree,24
+Abbotsford,college,25
+Coquitlam,graduate degree,26
+Trois-Rivières,high school,27
+Guelph,college,28
+Cambridge,college,29
+Whitby,college,30
+Ajax,graduate degree,31
+Langley,college,32
+Saanich,college,33
+Terrebonne,graduate degree,34
+Milton,graduate degree,35
+St. John's,graduate degree,36
+Moncton,graduate degree,37
+Thunder Bay,college,21
+Dieppe,graduate degree,22
+Waterloo,college,23
+Delta,graduate degree,24
+Chatham,college,25
+Red Deer,college,26
+Kamloops,college,27
+Brantford,graduate degree,28
+Cape Breton,college,29
+Lethbridge,college,30
+Saint-Jean-sur-Richelieu,graduate degree,31
+Clarington,college,32
+Pickering,college,33
+Nanaimo,graduate degree,34
+Sudbury,college,35
+North Vancouver,graduate degree,36
+Brossard,graduate degree,37
+Repentigny,college,21
+Newmarket,graduate degree,22
+Chilliwack,graduate degree,23
+White Rock,graduate degree,24
+Maple Ridge,college,25
+Peterborough,graduate degree,26
+Kawartha Lakes,college,27
+Prince George,college,28
+Sault Ste. Marie,graduate degree,29
+Sarnia,college,30
+Wood Buffalo,college,31
+New Westminster,high school,32
+Châteauguay,graduate degree,33
+Saint-Jérôme,graduate degree,34
+Drummondville,graduate degree,35
+Saint John,graduate degree,36
+Caledon,college,37
+St. Albert,college,21
+Granby,college,22
+Medicine Hat,graduate degree,23
+Grande Prairie,college,24
+St. Thomas,graduate degree,25
+Airdrie,graduate degree,26
+Halton Hills,college,27
+Saint-Hyacinthe,graduate degree,28
+Lac-Brome,college,29
+Port Coquitlam,graduate degree,30
+Fredericton,graduate degree,31
+Blainville,college,32
+Aurora,college,33
+Welland,college,34
+North Bay,college,35
+Beloeil,college,36
+Belleville,graduate degree,37
+Mirabel,graduate degree,21
+Shawinigan,college,22
+Dollard-des-Ormeaux,graduate degree,23
+Brandon,college,24
+Rimouski,graduate degree,25
+Cornwall,graduate degree,26
+Stouffville,graduate degree,27
+Georgina,graduate degree,28
+Victoriaville,graduate degree,29
+Vernon,graduate degree,30
+Duncan,graduate degree,31
+Saint-Eustache,graduate degree,32
+Quinte West,graduate degree,33
+Charlottetown,graduate degree,34
+Mascouche,graduate degree,35
+West Vancouver,graduate degree,36
+Salaberry-de-Valleyfield,graduate degree,37
+Rouyn-Noranda,high school,21
+Timmins,graduate degree,22
+Sorel-Tracy,college,23
+New Tecumseth,college,24
+Woodstock,graduate degree,25
+Boucherville,graduate degree,26
+Mission,college,27
+Vaudreuil-Dorion,college,28
+Brant,graduate degree,29
+Lakeshore,graduate degree,30
+Innisfil,college,31
+Prince Albert,graduate degree,32
+Langford Station,graduate degree,33
+Bradford West Gwillimbury,graduate degree,34
+Campbell River,college,35
+Spruce Grove,graduate degree,36
+Moose Jaw,graduate degree,37
+Penticton,graduate degree,21
+Port Moody,graduate degree,22
+Leamington,graduate degree,23
+East Kelowna,college,24
+Côte-Saint-Luc,college,25
+Val-d’Or,college,26
+Owen Sound,college,27
+Stratford,college,28
+Lloydminster,college,29
+Pointe-Claire,college,30
+Orillia,graduate degree,31
+Alma,college,32
+Orangeville,college,33
+Fort Erie,graduate degree,34
+LaSalle,high school,32
+Sainte-Julie,high school,29
+Leduc,college,28
+North Cowichan,high school,31
+Chambly,college,28
+Okotoks,college,31
+Sept-Îles,graduate degree,32
+Centre Wellington,graduate degree,34
+Saint-Constant,college,35
+Grimsby,graduate degree,21
+Boisbriand,college,36
+Conception Bay South,graduate degree,34
+Saint-Bruno-de-Montarville,graduate degree,37
+Sainte-Thérèse,college,38
+Cochrane,graduate degree,26
+Thetford Mines,high school,26
+Courtenay,college,38
+Magog,graduate degree,38
+Whitehorse,graduate degree,35
+Woolwich,college,22
+Clarence-Rockland,graduate degree,24
+Fort Saskatchewan,graduate degree,31
+East Gwillimbury,graduate degree,23
+Lincoln,college,27
+La Prairie,college,21
+Tecumseh,college,32
+Mount Pearl Park,college,32
+Amherstburg,college,36
+Saint-Lambert,graduate degree,37
+Brockville,college,22
+Collingwood,college,31
+Scugog,graduate degree,34
+Kingsville,graduate degree,24
+Baie-Comeau,graduate degree,33
+Paradise,college,34
+Uxbridge,graduate degree,27
+Essa,graduate degree,38
+Candiac,college,24
+Oro-Medonte,college,33
+Varennes,college,25
+Strathroy-Caradoc,high school,21
+Wasaga Beach,college,37
+New Glasgow,college,34
+Wilmot,graduate degree,22
+Essex,graduate degree,22
+Fort St. John,graduate degree,28
+Kirkland,graduate degree,24
+L’Assomption,graduate degree,34
+Westmount,high school,35
+Saint-Lazare,high school,38
+Chestermere,high school,44
+Huntsville,college,45
