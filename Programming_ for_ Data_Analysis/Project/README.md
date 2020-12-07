@@ -1,11 +1,11 @@
-# Adrian (junior programmer) -gmit.ie
+# Adrian  -gmit.ie
 
 __This README documents necessary steps to get the application up and running.__
 
 **Version 1.1.0**
 
 # Description
-*I have been coding since January 2020.  This is my 2nd project and efforts.*
+*I have been coding since January 2020.  This is my 3rd project and efforts.*
 
 # Python version
 Python 3.8.3 which can be downloaded from here: https://www.python.org/downloads/
@@ -83,18 +83,14 @@ I am open to contributions.
 
 # About the project
 
-The analysis of the Numpy-Random Package for Programming for Data Analysis.
+The analysis of a real-world phenomenon for Programming for Data Analysis.
+As a data set, it has been used the Canada Cities Database. This is up-to-date (November 18th 2020) database of Canada cities and towns. 
 
 
-1. Introductory remarks.
-
-2.1. Explanation of the use of the Simple random data functions.
-
-2.2. Explanation of the use of the Permutations functions.
-
-3. The use and purpose of five Distributions functions.
-
-4. The use of seeds in generating pseudorandom numbers.
-
-5. Legacy of the Random Generation Mersenne Twister (MT19937) to Permuted Congruential Generator (64-bit, PCG64).
-List of sources. 
+Introductory remarks.
+Determine the necessary data;
+Get the data;
+Clean and organize the data;
+Explore the data;
+Model the data;
+Communicate findings.
