@@ -5,7 +5,8 @@ __This README documents necessary steps to get the application up and running.__
 **Version 1.1.0**
 
 # Description
-*I have been coding since January 2020.  This is my 3rd project and efforts.*
+*I have been coding since January 2020.  This is my 3rd project and efforts. The repository contains tasks for Fundamentals of Data Analysis module.*
+
 
 # Python version
 Python 3.8.3 which can be downloaded from here: https://www.python.org/downloads/
