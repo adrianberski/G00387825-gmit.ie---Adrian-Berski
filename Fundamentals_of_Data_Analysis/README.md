@@ -5,7 +5,7 @@ __This README documents necessary steps to get the application up and running.__
 **Version 1.1.0**
 
 # Description
-*I have been coding since January 2020.  This is my 2nd project and efforts.*
+*I have been coding since January 2020.  This is my 3rd project and efforts.*
 
 # Python version
 Python 3.8.3 which can be downloaded from here: https://www.python.org/downloads/
